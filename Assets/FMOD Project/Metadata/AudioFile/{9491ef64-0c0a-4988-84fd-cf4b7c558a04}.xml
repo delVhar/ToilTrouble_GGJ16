@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{9491ef64-0c0a-4988-84fd-cf4b7c558a04}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.1298333333333332</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Flasks Breaking - Var 02 {8da8dd00-2310-4b6a-92ba-dd39612b0721}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{25cb4893-6868-4225-92b1-871c4435574d}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{7c52dfc0-cd0a-4505-843e-28198b5db547}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.2288958333333335</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Stinger Deep - Var 01 {60b0f3fc-a764-4318-85d1-c90ca6d1202a}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{e6940901-7811-4c6b-b8a4-d6c46b4177cf}</destination>
+        </relationship>
+    </object>
+</objects>

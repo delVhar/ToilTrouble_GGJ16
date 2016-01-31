@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{03bd6e39-1634-4cf2-a2d2-5be96cf776d2}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.4369583333333333</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Flasks Foley - Var 01 {fb29f908-736f-46b8-b1cc-97729f3d2b74}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{25cb4893-6868-4225-92b1-871c4435574d}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{dd72344c-3497-4754-805e-85e9e85d355b}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.3653958333333334</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Scroll Fire Burn - Var 01 {9d7874c5-fd41-4410-ac9e-716d9e0f269c}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{5cb174b3-de31-4064-a461-56caadc712e9}</destination>
+        </relationship>
+    </object>
+</objects>

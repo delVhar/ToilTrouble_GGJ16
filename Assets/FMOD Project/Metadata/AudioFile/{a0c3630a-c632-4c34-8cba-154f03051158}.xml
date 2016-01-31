@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{a0c3630a-c632-4c34-8cba-154f03051158}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.1347291666666666</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Splashes - Var 01 {9dd3a1e3-4bed-4177-9317-bed4e32d3726}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{a9445d7f-f049-4528-bb05-5f66da27ac0f}</destination>
+        </relationship>
+    </object>
+</objects>

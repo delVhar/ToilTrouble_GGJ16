@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{925795b6-c3a2-421a-a8f2-7450d6a394d5}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.0201041666666666</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Potion Success - Sizzle 01 - Var 01 {62435c3a-e807-43a9-bba6-18fb7483bb0e}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6d825755-70e7-47c0-ac17-0853d13b305b}</destination>
+        </relationship>
+    </object>
+</objects>

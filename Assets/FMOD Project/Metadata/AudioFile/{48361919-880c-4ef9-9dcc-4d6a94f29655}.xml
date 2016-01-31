@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{48361919-880c-4ef9-9dcc-4d6a94f29655}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.90743750000000001</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Scroll Foley - Unroll {996f8197-b4b4-4421-92dd-8bb60914a294}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{5cb174b3-de31-4064-a461-56caadc712e9}</destination>
+        </relationship>
+    </object>
+</objects>

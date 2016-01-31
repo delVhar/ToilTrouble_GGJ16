@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{2811e0ff-c405-4f19-98cb-2ef2f542a3c0}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.8450833333333334</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Scroll Fire Ignite - Var 01 {aa3cd777-bc39-48fd-bf1a-e65abe03783a}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{5cb174b3-de31-4064-a461-56caadc712e9}</destination>
+        </relationship>
+    </object>
+</objects>

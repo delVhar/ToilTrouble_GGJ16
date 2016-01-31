@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{828ffb9e-3816-4bbd-84fa-ee7dcd9d45dc}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>12.287854166666667</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Light Drone LOOP - Drone Light {de538bc9-24b5-4901-9dfc-f4d0fb0a367b}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{2e72caa6-9fa4-4c3c-ae4a-21d98b97405a}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{07d4d95c-d8f9-4569-8298-b890f0d67253}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>3.977875</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Button Hover LOOP - Drone {f40bb05c-9877-42fd-a73d-9b413bb741d4}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{078127b8-3a37-4233-9ec9-d851ed6bea09}</destination>
+        </relationship>
+    </object>
+</objects>

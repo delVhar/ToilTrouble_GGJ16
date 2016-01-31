@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="EventFolder" id="{e2763929-e99f-4886-bd32-0c4440e41e8f}">
+        <property name="name">
+            <value>Scroll</value>
+        </property>
+        <relationship name="folder">
+            <destination>{6d5c5e95-fd25-42c7-8d3c-96202703df40}</destination>
+        </relationship>
+    </object>
+</objects>

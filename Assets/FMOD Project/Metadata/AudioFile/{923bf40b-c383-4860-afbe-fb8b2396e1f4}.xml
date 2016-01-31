@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{923bf40b-c383-4860-afbe-fb8b2396e1f4}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.1492708333333335</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Snares Master - Var 02 {aa970073-6aa8-4044-af07-8924f88bcede}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{2732168c-1a91-4011-b1c0-963cf15a81df}</destination>
+        </relationship>
+    </object>
+</objects>

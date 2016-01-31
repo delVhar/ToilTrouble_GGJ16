@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{9e3123e3-ee57-45a2-8a1d-161e46ab7e98}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.49791666666666667</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions-01 - Clicks FX - Click {cef1a83e-dd7f-4d9f-930e-afc1189f2a4b}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{078127b8-3a37-4233-9ec9-d851ed6bea09}</destination>
+        </relationship>
+    </object>
+</objects>

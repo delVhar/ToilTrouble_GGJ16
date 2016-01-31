@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="MixerGroup" id="{57bae6ad-bc28-4cce-a359-68645def059b}">
+        <property name="name">
+            <value>AmbMusic</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{dcacbd90-b485-4f91-aa47-791e2642b0fb}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{024928b3-9a56-45a2-b8b5-7f403784c78d}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{be2d216b-d5aa-401c-a2d1-ac45baf829ed}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{dcacbd90-b485-4f91-aa47-791e2642b0fb}">
+        <relationship name="effects">
+            <destination>{804e1120-8de2-4a78-8313-a29fa65e5f42}</destination>
+            <destination>{817c055c-9d85-43bb-a2e9-865b0aa63d94}</destination>
+            <destination>{95458137-31d0-4a6a-a1e1-0cb3b4a45e46}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{024928b3-9a56-45a2-b8b5-7f403784c78d}"/>
+    <object class="MixerBusFader" id="{804e1120-8de2-4a78-8313-a29fa65e5f42}"/>
+    <object class="CompressorEffect" id="{817c055c-9d85-43bb-a2e9-865b0aa63d94}">
+        <property name="threshold">
+            <value>-40</value>
+        </property>
+        <property name="sidechainEnabled">
+            <value>true</value>
+        </property>
+    </object>
+    <object class="CompressorEffect" id="{95458137-31d0-4a6a-a1e1-0cb3b4a45e46}">
+        <property name="threshold">
+            <value>-30</value>
+        </property>
+        <property name="attackTime">
+            <value>100</value>
+        </property>
+        <property name="sidechainEnabled">
+            <value>true</value>
+        </property>
+    </object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{2ffc90a2-d8f5-455b-a0f0-f161aca7129d}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.1485416666666666</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Potion Success 02 - Var 03 {8f5ddcd8-b312-4d03-9353-887386715b79}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{6d825755-70e7-47c0-ac17-0853d13b305b}</destination>
+        </relationship>
+    </object>
+</objects>

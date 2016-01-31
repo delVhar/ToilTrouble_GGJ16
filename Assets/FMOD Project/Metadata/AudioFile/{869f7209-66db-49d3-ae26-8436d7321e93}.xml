@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{869f7209-66db-49d3-ae26-8436d7321e93}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>124.06779166666666</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/PotionMaker_2016_Main {146fc36a-58c5-4183-a010-c7409542ea4f}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{81df7f81-f02f-4718-bfa0-26e99fa8a772}</destination>
+        </relationship>
+    </object>
+</objects>

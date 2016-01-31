@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="MixerGroup" id="{364a4a8d-29c3-4a96-b981-7f4c790a96f6}">
+        <property name="name">
+            <value>Ducking SFX</value>
+        </property>
+        <relationship name="effectChain">
+            <destination>{f0479ba8-2b98-4598-8e69-7892a5ffdcef}</destination>
+        </relationship>
+        <relationship name="panner">
+            <destination>{ff93cb55-a2f0-4363-8300-92fb699eb29f}</destination>
+        </relationship>
+        <relationship name="output">
+            <destination>{da076d15-5dec-4ffb-abd8-8d2fcf25310d}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusEffectChain" id="{f0479ba8-2b98-4598-8e69-7892a5ffdcef}">
+        <relationship name="effects">
+            <destination>{f5540458-a576-48a4-83ef-8ad8baa58ec7}</destination>
+            <destination>{b8e8a1b1-e974-4a5d-9c41-ff89b731d85e}</destination>
+        </relationship>
+    </object>
+    <object class="MixerBusPanner" id="{ff93cb55-a2f0-4363-8300-92fb699eb29f}"/>
+    <object class="MixerBusFader" id="{f5540458-a576-48a4-83ef-8ad8baa58ec7}"/>
+    <object class="Sidechain" id="{b8e8a1b1-e974-4a5d-9c41-ff89b731d85e}">
+        <relationship name="targets">
+            <destination>{817c055c-9d85-43bb-a2e9-865b0aa63d94}</destination>
+            <destination>{1fd6733d-5a74-4901-9ad1-f73e7acd71aa}</destination>
+        </relationship>
+    </object>
+</objects>

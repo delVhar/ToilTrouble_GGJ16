@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{fb95d30a-1ebb-48b4-a035-b8fd83d441f6}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>13.630125</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Dark Drone LOOP - Drone Dark {75794df1-dd0b-49e6-966e-1a799a34901c}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{2e72caa6-9fa4-4c3c-ae4a-21d98b97405a}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="Workspace" id="{5690c83e-fcf1-4449-aed7-fb2c32bf2cd1}">
+        <property name="builtBanksOutputDirectory">
+            <value>C:/Users/David/Documents/ggjproject/Ritual_GGJ16/Assets/FMOD Project/Build/</value>
+        </property>
+        <property name="outputFormat">
+            <value>6</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{6d5c5e95-fd25-42c7-8d3c-96202703df40}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{fcdb4e62-b1f7-4737-84fb-d2688833a0d7}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{97ae03f6-a350-45de-a938-7517ed6fb16a}</destination>
+        </relationship>
+        <relationship name="audioBinManager">
+            <destination>{5af678e5-e548-440f-89d0-86853ec56ea7}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{6d6cec39-3080-4559-abbc-7d816f44676c}</destination>
+        </relationship>
+    </object>
+    <object class="AudioBinManager" id="{5af678e5-e548-440f-89d0-86853ec56ea7}">
+        <relationship name="masterAudioBinFolder">
+            <destination>{437f3891-3099-4a49-8ca3-a6fd35cb580d}</destination>
+        </relationship>
+    </object>
+</objects>

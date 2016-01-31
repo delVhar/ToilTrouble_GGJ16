@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{ea41e664-2979-45ab-8e3e-ff1ffc330dc7}">
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.5200624999999999</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Potions - Chatter - Var 06 {30374294-5e67-4b1c-a3bc-9a7025d82640}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{25cb4893-6868-4225-92b1-871c4435574d}</destination>
+        </relationship>
+    </object>
+</objects>
