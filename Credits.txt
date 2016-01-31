@@ -1,0 +1,28 @@
+Toil and Trouble
+Made for Global Game Jam 2016 (Melbourne, Australia)
+
+Jordan Cook-Irwin - Producer
+@RedEyeManiacDev
+redeyemaniac.tumblr.com
+
+David Davies - Programmer
+@DuctTapeGames
+ducttapegames.com
+
+Deva Chandra - Artist
+deva-c.weebly.com
+fb/BrokenSpearGames
+
+George Kritikos - Artist
+gkconcept.weebly.com
+fb/BrokenSpearGames
+
+Jason Foord - Sound Designer
+and Audio Intergration
+@EasterEggAudio
+
+Aaron C. Edward - Composer
+aaroncedwards.audio
+soundcloud/aaron-c-edwards
+
+Audio engine : FMOD Studio by Firelight Technologies
