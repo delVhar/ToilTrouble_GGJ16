@@ -14,6 +14,7 @@ public class ForceResolution : MonoBehaviour {
             Screen.SetResolution(405, 720, false);
         }
         Screen.orientation = ScreenOrientation.Portrait;
+       
 	}
 	
 	// Update is called once per frame

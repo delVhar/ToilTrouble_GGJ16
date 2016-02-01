@@ -5,7 +5,7 @@
             <value>C:/Users/David/Documents/ggjproject/Ritual_GGJ16/Assets/FMOD Project/Build/</value>
         </property>
         <property name="outputFormat">
-            <value>6</value>
+            <value>3</value>
         </property>
         <relationship name="masterEventFolder">
             <destination>{6d5c5e95-fd25-42c7-8d3c-96202703df40}</destination>
